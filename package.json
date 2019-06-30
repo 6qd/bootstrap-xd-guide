@@ -1,7 +1,7 @@
 {
-  "name": "bootstrap-assets-for-xd.github.io",
+  "name": "bootstrap-xd",
   "version": "1.0.0",
-  "description": "My posh Nuxt.js project",
+  "description": "Bootstrap Design Template - Assets Library - for Adobe XD",
   "author": "rokuzeudon",
   "private": true,
   "scripts": {
