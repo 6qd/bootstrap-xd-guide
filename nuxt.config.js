@@ -12,7 +12,7 @@ export default {
       { hid: 'description', name: 'description', content: process.env.npm_package_description || '' }
     ],
     link: [
-      { rel: 'icon', type: 'image/x-icon', href: '/favicon.ico' }
+      { rel: 'icon', type: 'image/x-icon', href: '/bootstrap-xd-guide/favicon.ico' }
     ]
   },
   /*
@@ -45,5 +45,9 @@ export default {
     */
     extend(config, ctx) {
     }
+  },
+
+  router: {
+    base: '/bootstrap-xd-guide/'
   }
 }
