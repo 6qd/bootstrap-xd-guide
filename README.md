@@ -25,7 +25,7 @@ So if you'd like to publish your change, type this before push your commit.
 
 ```
 $ yarn generate
-$ cp -r dist/ docs
 ```
 
+This makes to generate `/dist` and auto copy it to `docs`.
 And the owner merge the PR and release.
