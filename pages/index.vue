@@ -1,5 +1,5 @@
 <template lang="pug">
-  .jumbotron
+  .jumbotron.text-white.rounded-0
     .container
       .row.align-items-center.flex-row-reverse
         .col-md-5.pl-5.pr-5
@@ -7,10 +7,10 @@
         .col-md-7
           h1.display-4 Bootstrap-XD
           h2.lead Bootstrap Design Template — Assets Library — for Adobe XD
-          hr.my-4
-          .links
-            a.btn.btn-lg.btn-success(href="//github.com/6qd/bootstrap-xd/raw/master/bootstrap4-assets.xd" target="_blank") Download
-            a.btn.btn-lg.btn-outline-light.ml-2(href="//github.com/6qd/bootstrap-xd" target="_blank") GitHub
+          hr.my-4.border-secondary
+          a.btn.btn-lg.btn-success(href="//github.com/6qd/bootstrap-xd/raw/master/bootstrap4-assets.xd" target="_blank") Download
+          a.btn.btn-lg.btn-outline-light.ml-2(href="//github.com/6qd/bootstrap-xd" target="_blank") GitHub
+  .
 </template>
 
 <script>
@@ -25,12 +25,6 @@ export default {
 
 <style lang="scss">
 .jumbotron {
-  color: #fff;
   background: #0A1762;
-  border: 8px solid rgba(235, 54, 193, .6);
-  border-radius: 0;
-  hr {
-    border-top: 1px solid rgba(255, 255, 255, 0.2);
-  }
 }
 </style>
