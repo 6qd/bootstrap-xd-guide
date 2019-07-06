@@ -49,77 +49,77 @@
           ul.card-columns.list-unstyled.mb-5
             li.card
               .card-header Colors
-              .card-body: img.card-img-top(src="//github.com/6qd/bootstrap-assets-for-xd/raw/master/export/Contents-Colors.png")
+              .card-body: img.card-img-top(src="//github.com/6qd/bootstrap-assets-for-xd/raw/master/export/Contents-Colors.png" alt="")
             li.card
               .card-header Images
-              .card-body: img.card-img-top(src="//github.com/6qd/bootstrap-assets-for-xd/raw/master/export/Contents-Images.png")
+              .card-body: img.card-img-top(src="//github.com/6qd/bootstrap-assets-for-xd/raw/master/export/Contents-Images.png" alt="")
             li.card
               .card-header Lists
-              .card-body: img.card-img-top(src="//github.com/6qd/bootstrap-assets-for-xd/raw/master/export/Contents-Lists.png")
+              .card-body: img.card-img-top(src="//github.com/6qd/bootstrap-assets-for-xd/raw/master/export/Contents-Lists.png" alt="")
             li.card
               .card-header Tables
-              .card-body: img.card-img-top(src="//github.com/6qd/bootstrap-assets-for-xd/raw/master/export/Contents-Tables.png")
+              .card-body: img.card-img-top(src="//github.com/6qd/bootstrap-assets-for-xd/raw/master/export/Contents-Tables.png" alt="")
             li.card
               .card-header Typography
-              .card-body: img.card-img-top(src="//github.com/6qd/bootstrap-assets-for-xd/raw/master/export/Contents-Typography.png")
+              .card-body: img.card-img-top(src="//github.com/6qd/bootstrap-assets-for-xd/raw/master/export/Contents-Typography.png" alt="")
           h3#sample-bootstrap-components.mb-4 Bootstrap Components
           ul.card-columns.list-unstyled.mb-5
             li.card
               .card-header Alerts
-              .card-body: img.card-img-top(src="//github.com/6qd/bootstrap-assets-for-xd/raw/master/export/Components-Alerts.png")
+              .card-body: img.card-img-top(src="//github.com/6qd/bootstrap-assets-for-xd/raw/master/export/Components-Alerts.png" alt="")
             li.card
               .card-header Badges
-              .card-body: img.card-img-top(src="//github.com/6qd/bootstrap-assets-for-xd/raw/master/export/Components-Badges.png")
+              .card-body: img.card-img-top(src="//github.com/6qd/bootstrap-assets-for-xd/raw/master/export/Components-Badges.png" alt="")
             li.card
               .card-header Breadcrumb
-              .card-body: img.card-img-top(src="//github.com/6qd/bootstrap-assets-for-xd/raw/master/export/Components-Breadcrumb.png")
+              .card-body: img.card-img-top(src="//github.com/6qd/bootstrap-assets-for-xd/raw/master/export/Components-Breadcrumb.png" alt="")
             li.card
               .card-header Buttons(with Tooltip and Popover)
-              .card-body: img.card-img-top(src="//github.com/6qd/bootstrap-assets-for-xd/raw/master/export/Components-Buttons.png")
+              .card-body: img.card-img-top(src="//github.com/6qd/bootstrap-assets-for-xd/raw/master/export/Components-Buttons.png" alt="")
             li.card
               .card-header Cards
-              .card-body: img.card-img-top(src="//github.com/6qd/bootstrap-assets-for-xd/raw/master/export/Components-Cards.png")
+              .card-body: img.card-img-top(src="//github.com/6qd/bootstrap-assets-for-xd/raw/master/export/Components-Cards.png" alt="")
             li.card
               .card-header Carousel
-              .card-body: img.card-img-top(src="//github.com/6qd/bootstrap-assets-for-xd/raw/master/export/Components-Carousel.png")
+              .card-body: img.card-img-top(src="//github.com/6qd/bootstrap-assets-for-xd/raw/master/export/Components-Carousel.png" alt="")
             li.card
               .card-header Forms
-              .card-body: img.card-img-top(src="//github.com/6qd/bootstrap-assets-for-xd/raw/master/export/Components-Forms.png")
+              .card-body: img.card-img-top(src="//github.com/6qd/bootstrap-assets-for-xd/raw/master/export/Components-Forms.png" alt="")
             li.card
               .card-header Jumbotron
-              .card-body: img.card-img-top(src="//github.com/6qd/bootstrap-assets-for-xd/raw/master/export/Components-Jumbotron.png")
+              .card-body: img.card-img-top(src="//github.com/6qd/bootstrap-assets-for-xd/raw/master/export/Components-Jumbotron.png" alt="")
             li.card
               .card-header ListGroup
-              .card-body: img.card-img-top(src="//github.com/6qd/bootstrap-assets-for-xd/raw/master/export/Components-ListGroup.png")
+              .card-body: img.card-img-top(src="//github.com/6qd/bootstrap-assets-for-xd/raw/master/export/Components-ListGroup.png" alt="")
             li.card
               .card-header MediaObject
-              .card-body: img.card-img-top(src="//github.com/6qd/bootstrap-assets-for-xd/raw/master/export/Components-MediaObject.png")
+              .card-body: img.card-img-top(src="//github.com/6qd/bootstrap-assets-for-xd/raw/master/export/Components-MediaObject.png" alt="")
             li.card
               .card-header Modal
-              .card-body: img.card-img-top(src="//github.com/6qd/bootstrap-assets-for-xd/raw/master/export/Components-Modal.png")
+              .card-body: img.card-img-top(src="//github.com/6qd/bootstrap-assets-for-xd/raw/master/export/Components-Modal.png" alt="")
             li.card
               .card-header Pagination
-              .card-body: img.card-img-top(src="//github.com/6qd/bootstrap-assets-for-xd/raw/master/export/Components-Pagination.png")
+              .card-body: img.card-img-top(src="//github.com/6qd/bootstrap-assets-for-xd/raw/master/export/Components-Pagination.png" alt="")
             li.card
               .card-header Progress
-              .card-body: img.card-img-top(src="//github.com/6qd/bootstrap-assets-for-xd/raw/master/export/Components-Progress.png")
+              .card-body: img.card-img-top(src="//github.com/6qd/bootstrap-assets-for-xd/raw/master/export/Components-Progress.png" alt="")
             li.card
               .card-header Spinners
-              .card-body: img.card-img-top(src="//github.com/6qd/bootstrap-assets-for-xd/raw/master/export/Components-Spinners.png")
+              .card-body: img.card-img-top(src="//github.com/6qd/bootstrap-assets-for-xd/raw/master/export/Components-Spinners.png" alt="")
             li.card
               .card-header Toasts
-              .card-body: img.card-img-top(src="//github.com/6qd/bootstrap-assets-for-xd/raw/master/export/Components-Toasts.png")
+              .card-body: img.card-img-top(src="//github.com/6qd/bootstrap-assets-for-xd/raw/master/export/Components-Toasts.png" alt="")
           h3#sample-xd-assets.mb-4 Assets in XD
           ul.card-columns.list-unstyled.mb-5
             li.card
               .card-header Components
-              .card-body: img.card-img-top(src="//user-images.githubusercontent.com/14285777/60752655-366d7580-a003-11e9-9ca6-790e511afa77.png")
+              .card-body: img.card-img-top(src="//user-images.githubusercontent.com/14285777/60752655-366d7580-a003-11e9-9ca6-790e511afa77.png" alt="")
             li.card
               .card-header Colors
-              .card-body: img.card-img-top(src="//user-images.githubusercontent.com/14285777/60752652-2fdefe00-a003-11e9-9c83-33534787b4f2.png")
+              .card-body: img.card-img-top(src="//user-images.githubusercontent.com/14285777/60752652-2fdefe00-a003-11e9-9c83-33534787b4f2.png" alt="")
             li.card
               .card-header Character Styles
-              .card-body: img.card-img-top(src="//user-images.githubusercontent.com/14285777/60752653-33728500-a003-11e9-88a4-84b6789492a5.png")
+              .card-body: img.card-img-top(src="//user-images.githubusercontent.com/14285777/60752653-33728500-a003-11e9-88a4-84b6789492a5.png" alt="")
     // - Footer
     footer.bg-light.py-5
       .container.text-center
