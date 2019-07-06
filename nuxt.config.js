@@ -35,6 +35,7 @@ export default {
   modules: [
     // Doc: https://bootstrap-vue.js.org/docs/
     'bootstrap-vue/nuxt',
+    ['@nuxtjs/google-tag-manager', { id: 'GTM-KBG9CHV' }]
   ],
   /*
   ** Build configuration
