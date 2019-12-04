@@ -62,6 +62,9 @@
             li.card
               .card-header Typography
               .card-body: img.card-img-top(src="//github.com/6qd/bootstrap-assets-for-xd/raw/master/export/Contents-Typography.png" alt="")
+            li.card
+              .card-header Bootstrap Icons
+              .card-body: img.card-img-top(src="//github.com/6qd/bootstrap-assets-for-xd/raw/master/export/Icons.png" alt="")
           h3#sample-bootstrap-components.mb-4 Bootstrap Components
           ul.card-columns.list-unstyled.mb-5
             li.card
